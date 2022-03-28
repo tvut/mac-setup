@@ -11,6 +11,10 @@
 - [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/) for downloading lectures.
 - [Hush](https://oblador.github.io/hush/) blocks content popups.
 - [Brew](https://brew.sh) the package manager.
+- [Bartender](https://www.macbartender.com) makes the endless amount of stuff in the menu bar manageable.
+- [Stats](https://github.com/exelban/stats) adds nice system usage stats to the menu bar.
+- [WiFi Signal](https://www.intuitibits.com/products/wifisignal/) adds more information about the WiFi connection to the menu bar.
+
 ## Software
 - [iTerm](https://iterm2.com) using the profiles seen in ```profiles.json```. Main color scheme is either [Challenger deep](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/ChallengerDeep.itermcolors). Zsh config file is ```.zshrc``` which adds colors.
 - [WireGuard](https://apps.apple.com/us/app/wireguard/id1451685025?ls=1&mt=12) for pi.hole.
